@@ -1,7 +1,6 @@
-# Invoices
-README.md
+# Two Approach Retrieve JSON data from different API
 
-# Json Output Console App
+## Json Output Console App
 
 This repository contains a simple Java application that retrieves JSON data from different APIs and displays it in the console. The application demonstrates two different approaches using different libraries to fetch and process JSON data.
 
